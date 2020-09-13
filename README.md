@@ -18,4 +18,4 @@ Besides, accountants can retrieve bill information from the database to do finan
 * Reports to retrieve and review data from linked tables
 
 #### Other Members:
-[Vicky J. Zhang]: [LinkedIn](https://www.linkedin.com/in/vicky-j-zhang-27a942148/)
+Vicky J. Zhang: [LinkedIn](https://www.linkedin.com/in/vicky-j-zhang-27a942148/)
