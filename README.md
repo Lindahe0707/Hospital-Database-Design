@@ -1,5 +1,5 @@
 # Hospital-Database-Design
-Designed and implemented a database
+Designed and implemented a database for course GLIS 657 - Database Design and Development
 
 # Overview
 
@@ -16,3 +16,11 @@ Besides, accountants can retrieve bill information from the database to do finan
 * A usable, small-scale database with interface created in MS Access
 * Input Forms to enter and modify data
 * Reports to retrieve and review data from linked tables
+
+#### Other Members:
+
+#### Other Members:
+
+|     Name        |     Contact     | 
+|-----------------|-----------------|
+|[Jing Zhang]     |    LinkedIn     |
