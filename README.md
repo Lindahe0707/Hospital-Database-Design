@@ -19,8 +19,6 @@ Besides, accountants can retrieve bill information from the database to do finan
 
 #### Other Members:
 
-#### Other Members:
-
 |     Name        |     Contact     | 
 |-----------------|-----------------|
 |[Jing Zhang]     |    LinkedIn     |
